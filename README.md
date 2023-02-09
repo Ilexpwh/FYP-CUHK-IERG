@@ -1,1 +1,1 @@
-# Final year project for my BEng Iofrmation Engineering degree in CUHK
+# Final year project for my BEng Information Engineering degree in CUHK
